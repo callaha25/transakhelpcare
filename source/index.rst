@@ -2,8 +2,6 @@
    sphinx-quickstart on Sat Jul  5 10:25:18 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
-.. meta::
-   :google-site-verification: <Ad4MR1_dYPANWROo6gt-9AesB-m9c5fm8_4Kb7Ax6Rg>
 
 
 {16} Logical Effective Ways to Contact Transak: A Step-by-Step Instruction
